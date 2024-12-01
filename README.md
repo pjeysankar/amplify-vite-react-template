@@ -13,7 +13,7 @@ This template equips you with a foundational React application integrated with A
 - **Database**: Real-time database powered by Amazon DynamoDB.
 
 ## Deploying to AWS
-
+First Deploy
 For detailed instructions on deploying your application, refer to the [deployment section](https://docs.amplify.aws/react/start/quickstart/#deploy-a-fullstack-app-to-aws) of our documentation.
 
 ## Security
